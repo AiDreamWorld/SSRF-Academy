@@ -1,0 +1,5 @@
+{
+  "name": "SSRF Academy",
+  "description": "An interactive educational platform for learning advanced Server-Side Request Forgery (SSRF) concepts, including blind SSRF, cloud metadata, and DNS rebinding, powered by Gemini.",
+  "requestFramePermissions": []
+}
